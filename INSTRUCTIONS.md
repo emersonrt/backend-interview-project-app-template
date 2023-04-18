@@ -1,4 +1,4 @@
-# Backend Engineer Task for NinjaOne
+# Backend Engineer Task
 
 Implement a REST API in Java with data persistency and caching to fulfill the basic requirements of
 an RMM Platform.
@@ -54,7 +54,8 @@ be re-evaluated any time a service is added to a Device.
 
 ## Instructions
 
-Using the provided [Project Template](https://github.com/NinjaRMM/backend-interview-project-app-template) or from scratch, implement the service as described in *Feature
+Using the provided [Project Template](https://github.com/
+RMM/backend-interview-project-app-template) or from scratch, implement the service as described in *Feature
 Requirements*
 
 ## Project Template
